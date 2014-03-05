@@ -1,0 +1,13 @@
+{
+  "name": "npm modules list",
+  "version": "0.0.1",
+  "description": "my global npm modules ",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:MSakamaki/global_npm_modules.git"
+  },
+  "scripts": {
+    "preinstall": "npm i -g grunt-cli",
+    "preinstall": "npm i -g bower"
+  }
+}
