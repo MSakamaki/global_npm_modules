@@ -7,7 +7,6 @@
     "url": "git@github.com:MSakamaki/global_npm_modules.git"
   },
   "scripts": {
-    "preinstall": "npm i -g grunt-cli",
-    "preinstall": "npm i -g bower"
+    "preinstall": "npm i -g grunt-cli bower forever"
   }
 }
