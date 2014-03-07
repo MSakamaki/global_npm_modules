@@ -11,7 +11,6 @@ url get [node.org/dist/](http://nodejs.org/dist/)
 ./configure --prefix=$HOME/local/node
 make
 sudo make install
-
 ```
 
 add .bashrc
@@ -19,7 +18,6 @@ add .bashrc
 ```sh
 
 export PATH=$HOME/local/node/bin:$PATH
-
 ```
 
 node uninstall
@@ -28,7 +26,6 @@ node uninstall
 
 cd $HOME/local
 rm -r node
-
 ```
 
 
