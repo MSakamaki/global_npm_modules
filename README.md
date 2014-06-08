@@ -2,6 +2,14 @@
 
 ## ubuntu nodejs install memo
 
+
+#### 前提
+
+ + g++
+ + git
+
+  ``sudo  apt-get install git g++``
+
 node install
 
 url get [node.org/dist/](http://nodejs.org/dist/)
