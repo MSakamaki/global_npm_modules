@@ -7,6 +7,6 @@
     "url": "git@github.com:MSakamaki/global_npm_modules.git"
   },
   "scripts": {
-    "preinstall": "npm i -g grunt-cli bower forever yo typescript jsdoc gulp"
+    "preinstall": "npm i -g grunt-cli bower forever yo typescript jsdoc gulp cordova"
   }
 }
