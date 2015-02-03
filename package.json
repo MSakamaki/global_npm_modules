@@ -7,6 +7,6 @@
     "url": "git@github.com:MSakamaki/global_npm_modules.git"
   },
   "scripts": {
-    "preinstall": "npm i -g appium mocha bower grunt-cli protractor cordova gulp slush hexo istanbul forever typescript jsdoc yo karma-cli devil generator-flux-webapp generator-traceur generator-karma generator-webapp generator-knockout generator-knockout-bootstrap generator-mocha generator-polymer generator-angular-fullstack generator-react generator-element generator-react-app generator-flux generator-react-webpack"
+    "preinstall": "npm i -g appium mocha bower grunt-cli protractor cordova gulp slush hexo istanbul forever typescript jsdoc yo karma-cli devil jspm"
   }
 }
