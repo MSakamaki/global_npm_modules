@@ -59,8 +59,9 @@ npm i -g node-inspector devil
 npm i -g cordova reapp
 # others
 npm i -g hexo
-npm i -g forever
-
+npm i -g forever http-server
+npm i -g esprima
+npm i -g babel 
 ```
 
 
