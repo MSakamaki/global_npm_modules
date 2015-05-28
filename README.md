@@ -36,4 +36,31 @@ cd $HOME/local
 rm -r node
 ```
 
+my npm modules
+
+```sh
+# dipendency
+npm i -g npm-check-updates
+# dev tools
+npm i -g yo grunt-cli bower
+npm i -g jspm webpack
+npm i -g gulp slush
+# testing tools
+npm i -g karma-cli
+npm i -g protractor elementor appium
+npm i -g istanbul
+# alt js
+npm i -g typescript
+# document
+npm i -g jsdoc
+# node debug tools
+npm i -g node-inspector devil
+# hybrid
+npm i -g cordova reapp
+# others
+npm i -g hexo
+npm i -g forever
+
+```
+
 
