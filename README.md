@@ -57,12 +57,14 @@ npm i -g jsdoc
 npm i -g node-inspector devil
 # hybrid
 npm i -g cordova reapp
+# vim
+npm i -g instant-markdown-d
 # others
 npm i -g hexo
 npm i -g mermaid
 npm i -g forever http-server
 npm i -g esprima
-npm i -g babel 
+npm i -g babel
 ```
 
 
