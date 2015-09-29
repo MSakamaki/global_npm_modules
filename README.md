@@ -40,7 +40,7 @@ my npm modules
 
 ```sh
 # dipendency
-npm i -g npm-check-updates
+npm i -g npm-check-updates bower-check-updates
 # dev tools
 npm i -g yo grunt-cli bower
 npm i -g jspm webpack
@@ -52,7 +52,7 @@ npm i -g istanbul
 # alt js
 npm i -g typescript
 # document
-npm i -g jsdoc
+npm i -g jsdoc esdoc yuidoc
 # node debug tools
 npm i -g node-inspector devil
 # hybrid
