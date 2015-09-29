@@ -42,6 +42,7 @@ my npm modules
 # dipendency
 npm i -g npm-check-updates bower-check-updates
 # dev tools
+npm i -g jpm
 npm i -g yo grunt-cli bower
 npm i -g jspm webpack
 npm i -g gulp slush
