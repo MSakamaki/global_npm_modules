@@ -47,25 +47,23 @@ npm i -g yo grunt-cli bower
 npm i -g jspm webpack
 npm i -g gulp slush
 # testing tools
-npm i -g karma-cli
-npm i -g protractor elementor appium
-npm i -g istanbul
+npm i -g karma protractor elementor appium nightwatch istanbul
 # alt js
-npm i -g typescript
+npm i -g typescript tsc
 # document
-npm i -g jsdoc esdoc yuidoc
+npm i -g jsdoc esdoc yuidocjs
 # node debug tools
 npm i -g node-inspector devil
+# lint
+npm i -g jshint eslint jscs
 # hybrid
-npm i -g cordova reapp
+npm i -g electron-prebuilt # cordova reapp 
 # vim
 npm i -g instant-markdown-d
 # others
-npm i -g hexo
-npm i -g mermaid
-npm i -g forever http-server
-npm i -g esprima
-npm i -g babel
+npm i -g hexo mermaid forever http-server
+npm i -g esprima babel rollup
+
 ```
 
 
