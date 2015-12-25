@@ -62,7 +62,7 @@ npm i -g electron-prebuilt # cordova reapp
 npm i -g instant-markdown-d
 # others
 npm i -g hexo mermaid forever http-server
-npm i -g esprima babel rollup
+npm i -g esprima babel-cli rollup
 
 ```
 
