@@ -36,6 +36,13 @@ cd $HOME/local
 rm -r node
 ```
 
+npm upgrade
+
+```sh
+# npm upgrade
+npm install -g npm@latest
+```
+
 my npm modules
 
 ```sh
@@ -63,6 +70,7 @@ npm i -g instant-markdown-d
 # others
 npm i -g hexo mermaid forever http-server
 npm i -g esprima babel-cli rollup
+
 
 ```
 
