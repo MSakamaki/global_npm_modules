@@ -74,4 +74,13 @@ npm i -g esprima babel-cli rollup
 
 ```
 
+Additional
 
+```sh
+
+# private bower server
+npm i -g private-bower
+# private npm server
+npm i -g sinopia
+
+```
